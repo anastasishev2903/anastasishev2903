@@ -1,0 +1,8 @@
+{
+  "outcome": "running",
+  "fix_type": "transient",
+  "resume_from": "build",
+  "message": "Resuming from build (transient)…",
+  "log": "projects/ChikoRoad/.resume-20260930-145029.log",
+  "attempted_at_epoch": 1790772632
+}

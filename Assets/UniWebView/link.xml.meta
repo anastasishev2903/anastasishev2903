@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aa6e2add7e1b4fe2969429a8de041463
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229335
+  packageName: UniWebView 6
+  packageVersion: 6.9.0
+  assetPath: Assets/UniWebView/link.xml
+  uploadId: 980958

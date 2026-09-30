@@ -1,0 +1,4 @@
+--- последняя ошибка пайплайна ---
+PIPELINE_INFRA_ERROR: uba_build_failed_no_aab
+Проверки на текущих файлах: см. выше
+

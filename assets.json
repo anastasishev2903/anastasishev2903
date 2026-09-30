@@ -1,0 +1,216 @@
+{
+  "style": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette",
+  "palette": [
+    "#171A22",
+    "#0E1017",
+    "#202634",
+    "#2B3345",
+    "#F5C442",
+    "#E94B3D",
+    "#37B8CC",
+    "#7AC84F",
+    "#FFF1D6",
+    "#101219"
+  ],
+  "notes": "One art style for the whole project, repeated word for word at the head of every prompt (rule F.1c). Every mechanical sprite declares its orientation in words (rule C.8); the symmetric ones say so explicitly so nothing is mirrored by accident - only sprite_verge_sign is asymmetric, and the code mirrors it deliberately for the left verge. Sprites are drawn on whatever backdrop the model likes, because the pipeline cuts the background away (rule F.1b), so no prompt argues about background colour. sprite_slot_frame, sprite_plate_panel and sprite_road_tile carry a nine-slice border in their .meta, so their prompts ask for a uniform rim and a flat centre that survives stretching. sprite_road_tile is stacked vertically, so its prompt describes its top and bottom EDGES rather than its geometry (rule F.1d). The four parcel colours each carry a different white stamp shape, so the order strip stays readable on a compressed screenshot and for a colourblind player. No prompt contains the app name, and no sprite carries lettering of any kind (hard rule 1).",
+  "assets": [
+    {
+      "name": "bg_main",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_main.png",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, a farm road at dusk running away from the viewer and narrowing towards the horizon, ploughed fields and a low wooden fence along both verges, almost black charcoal sky with a warm amber glow low on the horizon, deep shadow gathering in the corners, the middle of the frame kept calm and low contrast as a safe area for a hero object and a button, the lower third darkened so controls read over it, vertical 9:19.5 portrait composition, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_game.png",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, a dark farm road corridor running the full height of the frame with quiet fields on either side, flat low contrast soil and grass, a faint cyan glow along the outer verges, a soft vignette in the corners, the whole centre deliberately empty and calm so gameplay pieces read on top of it, the top quarter and the bottom sixth darkened so a HUD stays legible, vertical 9:19.5 portrait composition, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "sprite_cart",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_cart.png",
+      "orientation": "three-quarter view from behind and slightly above, nose pointing UP the screen, horizontally symmetric so it is never mirrored",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single chunky delivery cart seen from behind and slightly above with its nose pointing away up the screen, a cheerful cartoon rooster driving it, a wide horseshoe shaped magnet mounted across the front and glowing gold, fat rubber wheels on a short axle, horizontally symmetric, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "sprite_parcel_gold",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_parcel_gold.png",
+      "orientation": "front three-quarter view, symmetric, never mirrored",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single parcel box tied with a golden yellow ribbon and a small bow, a single solid white CIRCLE stamped flat on the face turned towards the viewer, symmetric, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "sprite_parcel_red",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_parcel_red.png",
+      "orientation": "front three-quarter view, symmetric, never mirrored",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single parcel box tied with a bright warm red ribbon and a small bow, a single solid white TRIANGLE stamped flat on the face turned towards the viewer, symmetric, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "sprite_parcel_cyan",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_parcel_cyan.png",
+      "orientation": "front three-quarter view, symmetric, never mirrored",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single parcel box tied with a turquoise cyan ribbon and a small bow, a single solid white SQUARE stamped flat on the face turned towards the viewer, symmetric, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "sprite_parcel_lime",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_parcel_lime.png",
+      "orientation": "front three-quarter view, symmetric, never mirrored",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single parcel box tied with a fresh lime green ribbon and a small bow, a single solid white HEXAGON stamped flat on the face turned towards the viewer, symmetric, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "sprite_hay_bale",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_hay_bale.png",
+      "orientation": "front view, roughly as wide as it is tall, symmetric, never mirrored",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single round straw hay bale seen from the front, bound with two dark ropes, loose straw sticking out at the sides, roughly as wide as it is tall, symmetric, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "sprite_crate_stack",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_crate_stack.png",
+      "orientation": "front view, roughly as wide as it is tall, symmetric, never mirrored",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single small stack of battered wooden farm crates blocking the way, splintered planks and a spilled apple resting against the base, roughly as wide as it is tall, symmetric, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "sprite_road_tile",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_road_tile.png",
+      "orientation": "vertical tile, symmetric left to right; the lane markings meet the TOP edge and the BOTTOM edge at exactly the same places so stacked copies continue without a seam",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, a seamless vertical stretch of dark packed earth road with two rows of dashed cream lane markings running from the very bottom edge to the very top edge, a plain uniform border of the same road surface on all four sides so the middle can stretch, the markings touch the top edge and the bottom edge at exactly the same horizontal positions so stacked copies continue without a seam, nothing else in the frame, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "sprite_verge_sign",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_verge_sign.png",
+      "orientation": "side view, facing RIGHT, asymmetric - the code mirrors it deliberately for the left verge",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single wooden farm roadside marker seen from the side and facing right, a short post with a blank plain board angled to the right and a small amber lamp on top, no writing on the board, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "sprite_lane_fan",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_lane_fan.png",
+      "orientation": "top-down perspective, symmetric, never mirrored",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, three farm road lanes side by side fanning upward and converging towards a vanishing point at the top, seen in top-down perspective over dark packed earth with cream dashed markings between them, a faint amber glow along the outer edges, symmetric, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "sprite_emblem",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_emblem.png",
+      "orientation": "front view, symmetric, never mirrored",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single abstract emblem: a thick horseshoe shaped magnet arc curving around a diamond shaped parcel in the middle, gold body with a thin cyan rim, flat and graphic, symmetric, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no lettering of any kind, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "sprite_feather_live",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_feather_live.png",
+      "orientation": "front view, upright, symmetric, never mirrored",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single upright rooster tail feather, bold warm red with a cream quill and a glossy highlight, clean bold silhouette, symmetric, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "sprite_feather_lost",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_feather_lost.png",
+      "orientation": "front view, upright, symmetric, never mirrored",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single upright rooster tail feather that is broken and dull grey, its tip snapped off and a thick dark cross drawn over it, clean bold silhouette, symmetric, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "sprite_slot_frame",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_slot_frame.png",
+      "orientation": "front view, symmetric, never mirrored; nine-sliced with a 24 pixel border so the centre stretches and the corners do not",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single rounded square user interface slot frame, a thin even bright border of uniform thickness on all four sides, a completely flat empty hollow centre, rounded corners of equal radius, symmetric, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "sprite_plate_panel",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_plate_panel.png",
+      "orientation": "front view, symmetric, never mirrored; nine-sliced with a 40 pixel border so the centre stretches and the corners do not",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single plain rounded rectangle panel plate filled edge to edge with one flat solid light colour, a uniform narrow rim of the same thickness on all four sides, rounded corners of equal radius, absolutely no pattern or texture or shading inside it, symmetric, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "sprite_magnet_ring",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_magnet_ring.png",
+      "orientation": "front view, radial, symmetric, never mirrored",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single glowing magnetic pulse ring made of two concentric cyan arcs with a completely empty hollow centre, small spark dots around the outer arc, radial and symmetric, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "icon_back",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/icon_back.png",
+      "orientation": "side view, pointing LEFT, asymmetric and never mirrored",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single chunky arrow icon pointing to the left, thick rounded stroke, solid gold, flat and graphic, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "icon_pause",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/icon_pause.png",
+      "orientation": "front view, symmetric, never mirrored",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single pause icon made of two thick rounded vertical bars side by side, solid gold, flat and graphic, symmetric, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "icon_close",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/icon_close.png",
+      "orientation": "front view, symmetric, never mirrored",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single close icon made of two thick rounded strokes crossing in an X, solid cream, flat and graphic, symmetric, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "icon_chevron",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/icon_chevron.png",
+      "orientation": "front view, point facing UP, symmetric left to right and never mirrored horizontally",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single chevron icon with its point facing up, thick rounded stroke, solid dark graphite, flat and graphic, symmetric left to right, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "sprite_tut_lane",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_tut_lane.png",
+      "orientation": "front view, symmetric, never mirrored",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single instructional icon: a simple hand silhouette sliding sideways over three short parallel road lanes with a double headed arrow underneath it, cream on a plain shape, symmetric, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "sprite_tut_order",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_tut_order.png",
+      "orientation": "front view, symmetric, never mirrored",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single instructional icon: a row of four small coloured parcel tiles in gold, red, cyan and lime joined by a line, with a short arrow pointing down at the first tile, flat and graphic, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    },
+    {
+      "name": "sprite_tut_feather",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_tut_feather.png",
+      "orientation": "front view, symmetric, never mirrored",
+      "prompt": "flat vector cartoon, thick dark outline, chunky casual mobile game art, bold flat colours, high contrast, clean silhouette, one single instructional icon: three upright feathers in a row, the first two bold red and the third dull grey with a thick dark cross over it, flat and graphic, centred, whole subject in frame, isolated single subject, no other objects, no text, no letters, no logos, no watermark, not a photo, not photorealistic"
+    }
+  ]
+}

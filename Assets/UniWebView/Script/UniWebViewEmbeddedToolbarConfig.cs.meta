@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 92ad2dced49e48f9b80657085ed5ac8b
+timeCreated: 1771843200
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229335
+  packageName: UniWebView 6
+  packageVersion: 6.9.0
+  assetPath: Assets/UniWebView/Script/UniWebViewEmbeddedToolbarConfig.cs
+  uploadId: 980958

@@ -1,0 +1,70 @@
+{
+  "attempts": [
+    {
+      "stage": "test-ui",
+      "raw_stage": "screenshots",
+      "status": "PIPELINE_INFRA_ERROR",
+      "at_epoch": 1790615861
+    },
+    {
+      "stage": "build",
+      "raw_stage": "uba-build",
+      "status": "PIPELINE_INFRA_ERROR",
+      "at_epoch": 1790616447
+    },
+    {
+      "stage": "test-ui",
+      "raw_stage": "screenshots",
+      "status": "PIPELINE_INFRA_ERROR",
+      "at_epoch": 1790631508
+    },
+    {
+      "stage": "build",
+      "raw_stage": "uba-build",
+      "status": "PIPELINE_INFRA_ERROR",
+      "at_epoch": 1790669682
+    },
+    {
+      "stage": "build",
+      "raw_stage": "uba-build",
+      "status": "PIPELINE_INFRA_ERROR",
+      "at_epoch": 1790672838
+    },
+    {
+      "stage": "build",
+      "raw_stage": "uba-build",
+      "status": "PIPELINE_INFRA_ERROR",
+      "at_epoch": 1790677166
+    },
+    {
+      "stage": "build",
+      "raw_stage": "uba-build",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1790677174
+    },
+    {
+      "stage": "build",
+      "raw_stage": "uba-build",
+      "status": "PIPELINE_INFRA_ERROR",
+      "at_epoch": 1790686898
+    },
+    {
+      "stage": "test-ui",
+      "raw_stage": "screenshots",
+      "status": "PIPELINE_INFRA_ERROR",
+      "at_epoch": 1790700673
+    },
+    {
+      "stage": "build",
+      "raw_stage": "uba-build",
+      "status": "PIPELINE_INFRA_ERROR",
+      "at_epoch": 1790755278
+    },
+    {
+      "stage": "build",
+      "raw_stage": "uba-build",
+      "status": "PIPELINE_INFRA_ERROR",
+      "at_epoch": 1790772629
+    }
+  ]
+}

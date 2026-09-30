@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a80b02e89f0547f9895969bcf1cc17a8
+timeCreated: 1754231352
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229335
+  packageName: UniWebView 6
+  packageVersion: 6.9.0
+  assetPath: Assets/UniWebView/Script/External/JsonUtilityExtension.cs
+  uploadId: 980958

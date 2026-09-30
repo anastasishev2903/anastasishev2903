@@ -1,0 +1,44 @@
+# Unity — commit Assets/, Packages/, ProjectSettings/ and ALL .meta files.
+# Everything Unity regenerates on import is excluded so Build Automation checks
+# out a clean project and rebuilds Library itself.
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+[Rr]ecordings/
+.gradle/
+# IDE / solution files (regenerated)
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+.vs/
+.idea/
+# OS cruft
+.DS_Store
+Thumbs.db
+# never commit signing material, credentials, or local pipeline state
+*.keystore
+*.jks
+key.properties
+.env.secrets
+uba-creds.txt
+unity_service_account.txt
+.pipeline-state.env
+.uba-signing.log
+*.log
+
+# pipeline scratch — never ship
+.git-askpass.sh
+.push.log
+.diagnosis.json
+.diagnosis.claude-raw.log

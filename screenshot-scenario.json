@@ -1,0 +1,12 @@
+{
+  "notes": "tapFrac is normalised SCREEN space measured from the TOP. UI taps are computed from the real RectTransforms over the 1242x2688 canvas reference with the AspectRatioFitter correction applied: SafeArea fills the capture screen, but its child AspecterSA is FitInParent at aspect 1242/2688 = 0.46205 while the Unity AVD is 1080x2400 = 0.45, so the UI layer renders 1080 x 2337.4, letterboxed 31.3 px top and bottom. A UI rect at fraction u of the panel therefore lands at 0.013039 + u * 0.973917 of the screen measured from the bottom, and tapFrac y is one minus that. The LANE_LEFT step is a WORLD tap and needs no correction - the camera fills the screen and the steering band is read straight off Screen.height; it lands on empty road, clear of the hint plate at the foot and of the HUD cards at the top. SUNSET MILE gives a 105 s route clock, so both gameplay frames land inside a live run - the first about ten seconds in and the second about twenty, with the order strip, the cart, the parcels and the gesture hint all on screen. The run finishes on the pause card, which is deterministic and does not depend on how the random road fell.",
+  "steps": [
+    { "waitLoader": true, "wait": 1.5, "shot": "01_MenuScreen" },
+    { "tapFrac": [0.500, 0.6027], "label": "ROAD_SUNSET_MILE", "wait": 1.6, "shot": "02_RoadPicked" },
+    { "tapFrac": [0.500, 0.8165], "label": "HOW_TO_PLAY", "wait": 1.6, "shot": "03_HowToPlay" },
+    { "tapFrac": [0.500, 0.7119], "label": "GOT_IT", "wait": 1.0 },
+    { "tapFrac": [0.500, 0.6948], "label": "PLAY", "waitLoader": true, "wait": 10, "shot": "04_GameScreen_order" },
+    { "tapFrac": [0.220, 0.5500], "label": "LANE_LEFT", "wait": 8, "shot": "05_GameScreen_running" },
+    { "tapFrac": [0.915, 0.0715], "label": "PAUSE", "wait": 2.2, "shot": "06_PausePop" }
+  ]
+}

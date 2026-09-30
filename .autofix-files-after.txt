@@ -1,0 +1,402 @@
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/AndroidInstallReferrer/Scripts/Editor/ImportPackagePostprocessor.cs|1425|1783592387
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/AndroidInstallReferrer/Scripts/General/InstallReferrer.cs|730|1781165031
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/AndroidInstallReferrer/Scripts/General/InstallReferrerData.cs|3831|1781165031
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/AndroidInstallReferrer/Scripts/General/InstallReferrerProxy.cs|1459|1781165031
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Editor/CloudCodeModulePackager.cs|8214|1790584722
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Editor/CloudSaveAdminAccountsStore.cs|7338|1788529047
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Editor/CloudSaveAdminQueryWindow.cs|139460|1790597747
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Editor/CloudSaveExcelTableExporter.cs|19480|1789737956
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Editor/CloudSaveNetworkField.cs|1790|1790597251
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Editor/CloudSaveResponseParser.cs|17503|1789737956
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Editor/CloudSaveSelectedRowTreeView.cs|6139|1789737956
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Editor/CloudSaveTimeFormat.cs|9170|1788529047
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Editor/CloudSaveUsersTreeView.cs|13675|1790253918
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Editor/EditorScreenshotExtension.cs|1296|1788529047
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Editor/Generated/ObfuscateBuildHook.cs|29183|1790700702
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Editor/Generated/WhiteBuild.cs|11620|1790700702
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Editor/PushNotificationsSettingsImporter.cs|51968|1789737956
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Editor/TemplateAssetPostprocessor.cs|4271|1789737956
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Editor/TemplateServices/TemplateCloudEnvironment.cs|5712|1789737956
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs|8955|1782208587
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleEPOOutline.cs|6861|1782208588
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs|14003|1782208588
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs|12141|1782208582
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs|4180|1782208582
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs|43254|1782208586
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUIToolkit.cs|12002|1782208582
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs|18321|1782208585
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs|7210|1782208586
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/Generated/Cart.prefab|2435|1790601104
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/Generated/MagnetRing.prefab|2441|1790601104
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/Generated/Obstacle.prefab|2439|1790601104
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/Generated/Parcel.prefab|2437|1790601104
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/Generated/RoadTile.prefab|2439|1790601104
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/Generated/VergeSign.prefab|2441|1790601104
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/UserInterface/Buttons/SettingsButton.prefab|11038|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/UserInterface/Buttons/SquareButton.prefab|5959|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/UserInterface/Containers/CoinsContainer.prefab|10110|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/UserInterface/Containers/TimerContainer.prefab|7501|1789745937
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/UserInterface/Panels/TopPanel.prefab|17898|1789382843
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/UserInterface/Sliders/LoadingSlider.prefab|27127|1790601270
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/_BASE/BASE_BUTTON/BASE_BUTTON.prefab|9977|1790601270
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/_BASE/BASE_BUTTON/BASE_BUTTON_CONTAINER.prefab|46984|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/_BASE/BASE_BUTTON/EMPTY_BASE_BUTTON Variant.prefab|6150|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/_BASE/BASE_BUTTON/LOAD_SCENE_BASE_BUTTON Variant Variant.prefab|5746|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/_BASE/BASE_PANEL_SPLASH/SplashPanel.prefab|14682|1789465569
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/_BASE/BASE_PANEL_TUTORIAL/TutorialPanel.prefab|33319|1789745937
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/_BASE/BASE_POP/BASE_POP.prefab|97928|1789745937
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/_BASE/_FUNDAMENTAL/BASE_PANEL/BASE_PANEL.prefab|44555|1790601270
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/_BASE/_FUNDAMENTAL/BASE_PANEL/BASE_PANEL_CONTAINER.prefab|46995|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/_BASE/_FUNDAMENTAL/BASE_PANEL_INNER/BASE_PANEL_INNER.prefab|4297|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/_BASE/_FUNDAMENTAL/IMAGE/NewImage.prefab|2292|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/_BASE/_FUNDAMENTAL/TEXT/NewText.prefab|4045|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/_SCENE/CONTROLLERS.prefab|8106|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/_SCENE/EventSystem.prefab|3227|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/_SCENE/Main Camera.prefab|2195|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/_SCENE/SETUP_OBJECT.prefab|1612|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/_SCENE/_TEMPLATES/GameSceneTemplate Variant.prefab|217399|1790605475
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Prefabs/_SMPL/_SCENE/_TEMPLATES/MainMenuSceneTemplate.prefab|95682|1790584646
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scenes/1_MenuScene.unity|106619|1790601170
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scenes/Games/2_GameScene.unity|24049|1790618729
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/Current/nigs/MainThreadUtil.cs|75414|1790596882
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/Generated/CourierCart.cs|5898|1790600671
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/Generated/CourierPalette.cs|2920|1790600478
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/Generated/DeliveryPlan.cs|2180|1790600522
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/Generated/DeliveryPlanner.cs|9515|1790600554
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/Generated/HowToSheet.cs|3635|1790618980
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/Generated/MenuRoadView.cs|11473|1790618993
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/Generated/ParcelStream.cs|13517|1790600725
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/Generated/ResultCardDresser.cs|5552|1790601059
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/Generated/RoadRunDirector.cs|17008|1790601602
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/Generated/RoadStage.cs|6112|1790600577
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/Generated/RoadTuning.cs|4938|1790601475
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/Generated/RoadUi.cs|15196|1790600643
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/Generated/RouteChooser.cs|6883|1790601602
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/Generated/RunBoard.cs|14288|1790600782
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/Generated/RunMemory.cs|2934|1790600512
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/Generated/TmpContrastGuard.cs|5608|1790700705
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_CLASSES_CORE/_SETTINGS_CORE/SETTINGS.cs|3721|1790258855
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_CORE/Controllers/BasicController.cs|6215|1790258853
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_CORE/Controllers/GeneralGameSceneController.cs|6495|1790258849
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_CORE/Controllers/InputController.cs|4730|1790258843
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_CORE/Controllers/PanelController.cs|3827|1790258833
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_CORE/Controllers/PopsController.cs|2370|1790258829
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_CORE/Controllers/SetUpAwakeNoDestroyController.cs|1821|1790258823
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_CORE/UserInterface/Elements/Buttons/LoadSceneButton.cs|817|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_CORE/UserInterface/Elements/Buttons/SetPhysicsRunButton.cs|521|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_CORE/UserInterface/Elements/Buttons/ShowPanelButton.cs|690|1790258822
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_CORE/UserInterface/Elements/Buttons/ShowPopButton.cs|880|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_CORE/UserInterface/Elements/Counters/MoneyCount.cs|528|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_CORE/UserInterface/Elements/Panels/Panel.cs|3269|1790258821
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_CORE/UserInterface/Elements/Panels/SplashPanel.cs|2560|1790596794
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_CORE/UserInterface/Elements/Panels/TutorialPanel.cs|1196|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_CORE/UserInterface/Elements/Pops/Pop.cs|2373|1790258818
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_HLPRS/Canvas/CameraViewportHandler.cs|3239|1790258817
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_HLPRS/Canvas/CanvasHandler.cs|3101|1790258816
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_HLPRS/Canvas/SafeAreaHandler.cs|4315|1790258813
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_HLPRS/TMPro/TMProAspectExtension.cs|1216|1790258812
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/Scripts/_TMPLT_HLPRS/TMPro/TMProImageSyncer.cs|472|1790258812
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/TextMesh Pro/Sprites/EmojiOne.json|3966|1690040293
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Demo/UniWebViewDemo.unity|7062|1784817859
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Editor/AndroidManifest.cs|14303|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Editor/BuildGradle.cs|13834|1784817852
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Editor/GradleProperty.cs|1367|1784817855
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Editor/UniWebViewEditorSettings.cs|11189|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Editor/UniWebViewPostBuildProcessor.Android.cs|15940|1784817873
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Editor/UniWebViewPostBuildProcessor.cs|103|1784817854
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Editor/UniWebViewPostBuildProcessor.iOS.cs|1861|1784817858
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Interface/UniWebViewAndroid.cs|37785|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Interface/UniWebViewAndroidStaticListener.cs|2302|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Interface/UniWebViewCocoa.cs|52163|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Interface/UniWebViewPlaceholder.cs|13879|1784817844
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Prefab/UniWebView.prefab|1561|1784817857
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Prefab/UniWebViewSafeBrowsing.prefab|1310|1784817848
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/External/JsonUtilityExtension.cs|17288|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/External/MiniJSON.cs|18201|1784817872
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebView.Cookie.cs|12330|1784817865
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebView.Event.cs|23544|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebView.Navigation.cs|5599|1784817866
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebView.Networking.cs|23376|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebView.Obsolete.cs|18627|1784817857
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebView.Popup.cs|6481|1784817861
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebView.Snapshot.cs|21736|1784817867
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebView.UI.cs|34736|1784817873
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebView.cs|36774|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewAndroidDownloadDestination.cs|1489|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewAuthentication/UniWebViewAuthenticationCommonFlow.cs|4534|1784817856
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewAuthentication/UniWebViewAuthenticationFlow.cs|20403|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewAuthentication/UniWebViewAuthenticationFlowCustomize.cs|9843|1784817866
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewAuthentication/UniWebViewAuthenticationFlowDiscord.cs|9352|1784817855
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewAuthentication/UniWebViewAuthenticationFlowFacebook.cs|10539|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewAuthentication/UniWebViewAuthenticationFlowGitHub.cs|11274|1784817846
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewAuthentication/UniWebViewAuthenticationFlowGoogle.cs|10364|1784817860
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewAuthentication/UniWebViewAuthenticationFlowLine.cs|9776|1784817856
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewAuthentication/UniWebViewAuthenticationFlowTwitter.cs|9195|1784817858
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewAuthentication/UniWebViewAuthenticationSession.cs|10050|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewAuthentication/UniWebViewAuthenticationStandardToken.cs|5009|1784817865
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewAuthentication/UniWebViewAuthenticationUtils.cs|8723|1784817867
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewAuthenticationSessionEditorCleanup.cs|989|1784817863
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewBackForwardList/UniWebViewBackForwardItem.cs|1343|1784817846
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewBackForwardList/UniWebViewBackForwardList.cs|3975|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewCacheMode.cs|2016|1784817863
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewChannelMethod/UniWebViewChannelMessage.cs|8138|1784817863
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewChannelMethod/UniWebViewChannelMethodEmbeddedToolbarItemAction.cs|2287|1784817856
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewChannelMethod/UniWebViewChannelMethodHandleRequest.cs|1786|1784817871
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewChannelMethod/UniWebViewChannelMethodManager.cs|8549|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewChannelMethod/UniWebViewChannelMethodMediaCapturePermission.cs|2614|1784817849
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewChannelMethod/UniWebViewMediaCapturePermissionDecision.cs|1746|1784817850
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewContentInsetAdjustmentBehavior.cs|1584|1784817870
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewCornerRadius.cs|2722|1784817848
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewDownloadMatchingType.cs|1307|1784817845
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewEmbeddedToolbar.cs|9468|1784817847
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewEmbeddedToolbarConfig.cs|33206|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewExternalActivityResult.cs|3535|1784817853
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewFastEnterPlayMode.cs|829|1784817861
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewHelper.cs|2995|1784817858
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewLogger.cs|7404|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewMainThreadDispatcher.cs|5505|1784817850
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewMessage.cs|5134|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewNativeListener.cs|13797|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewPopup.cs|7017|1784817857
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewSafeBrowingComponent.cs|533|1784817854
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewSafeBrowsing.cs|31660|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewSafeBrowsingMetadata.cs|5071|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewShadow.cs|2573|1784817865
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewSnapshotTextureStream.cs|7034|1784817849
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewStaticListener.cs|1680|1788529048
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewToolbarPosition.cs|1238|1784817860
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewTransform.cs|3249|1784817870
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/UniWebView/Script/UniWebViewTransitionEdge.cs|1605|1784817845
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/Abstractions/ContentControl.cs|851|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/Abstractions/Control.cs|1984|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/Abstractions/IClickable.cs|603|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/Abstractions/IStyledComponents.cs|540|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/Abstractions/ITooltip.cs|495|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/Abstractions/IValuable.cs|487|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/Abstractions/IValueChangeNotifiable.cs|611|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/Abstractions/IValueConverter.cs|616|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/Abstractions/StyledComponents.cs|1138|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/BorderedSection.cs|1537|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/Button.cs|3073|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/Checkbox.cs|3205|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/DirectoryField.cs|3837|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/FileField.cs|4517|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/Heading1.cs|1792|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/Heading2.cs|1792|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/Heading3.cs|1792|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/ItemsControl.cs|3020|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/Paragraph.cs|1791|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/Section.cs|1960|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Components/ToggleGroup.cs|3610|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Models/Abstractions/CommandBase.cs|3089|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Models/Abstractions/IAsyncCallbackHandler.cs|508|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Models/AsyncCallbackHandler.cs|972|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Models/ObfuscateCommand.cs|7368|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Models/ObjectToBooleanConverter.cs|803|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/Models/ObservableDictionary.cs|4323|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Editor/PlanaEditor.cs|28686|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Extensions/AsmdefWorkspaceResolver.cs|4203|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Extensions/FileAttributesExtensions.cs|748|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Extensions/FileSystemInfoExtensions.cs|798|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Extensions/ITooltipExtensions.cs|733|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Extensions/IValueChangeNotifiableExtensions.cs|8494|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Extensions/ProcessExtensions.cs|2086|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Extensions/VisualElementExtensions.cs|3532|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Plugins/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json|282|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Plugins/Plana.CLI.deps.json|46933|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Plugins/Plana.CLI.runtimeconfig.json|340|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/Plugins/PlanaSeeded.runtimeconfig.json|340|1790700702
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/NatsunekoLaboratory/Plana/package.json|766|1788779750
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/RenameObfuscators/Editor/AssetsObfuscator.cs|57426|1789737956
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_HLP/Editor/TextToTextMeshPro.cs|6962|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_HLP/Editor/UnityGuidRegenerator.cs|9469|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/AssemblyInfo.cs|399|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Common/Tools/CSColorTools.cs|4899|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Common/Tools/CSEditorIcons.cs|2982|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Common/Tools/CSTextureLoader.cs|2934|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Extension/ExtensibleModule.cs|3025|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Extension/IMaintainerExtension.cs|465|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Extension/MaintainerExtension.cs|1068|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Filtering/FilterItem.cs|1173|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Map/AssetInfo.cs|10211|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Map/AssetReferenceInfo.cs|366|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Map/AssetsMap.cs|10886|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Map/Dependencies/AssetDependenciesSearcher.cs|3857|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Map/Dependencies/Parsers/Abstract/DependenciesParser.cs|789|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Map/Dependencies/Parsers/AddressableAssetGroupParser.cs|2970|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Map/Dependencies/Parsers/AssemblyDefinitionParser.cs|3668|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Map/Dependencies/Parsers/AssemblyDefinitionReferenceParser.cs|2203|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Map/Dependencies/Parsers/Interfaces/IDependenciesParser.cs|985|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Map/Dependencies/Parsers/SettingsParser.cs|2186|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Map/Dependencies/Parsers/ShaderParser.cs|3781|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Map/Dependencies/Parsers/SpriteAtlasParser.cs|2263|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Map/Dependencies/Parsers/TextAssetParser.cs|1151|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Map/ReferencedAtAssetInfo.cs|413|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Map/ReferencedAtInfo.cs|612|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Map/ReferencedAtOpenedSceneInfo.cs|471|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Map/ReferencingEntryData.cs|3950|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Scan/Listeners/Interfaces/IAssetBeginScanListener.cs|403|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Scan/Listeners/Interfaces/IAssetEndScanListener.cs|399|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Scan/Listeners/Interfaces/IComponentBeginScanListener.cs|415|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Scan/Listeners/Interfaces/IComponentEndScanListener.cs|411|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Scan/Listeners/Interfaces/IGameObjectBeginScanListener.cs|418|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Scan/Listeners/Interfaces/IGameObjectEndScanListener.cs|414|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Scan/Listeners/Interfaces/IPropertyScanListener.cs|771|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Scan/Listeners/Interfaces/IScanListenerResult.cs|603|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Scan/Listeners/Interfaces/ISceneBeginScanListener.cs|403|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Scan/Listeners/Interfaces/ISceneEndScanListener.cs|399|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Scan/Listeners/ScanListenerResults.cs|1009|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Scan/Location.cs|4566|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Scan/LocationGroup.cs|455|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Scan/Scanners/Interfaces/IPropertyScanner.cs|966|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/Scan/Scanners/UnityEventScanner.cs|6054|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/TreeDataModel/TreeItem.cs|2206|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/TreeDataModel/TreeItemUtility.cs|5296|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Core/TreeDataModel/TreeModel.cs|5899|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Maintainer.cs|3799|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/MaintainerMarker.cs|1114|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Cleaner/BuildReportAnalyzer.cs|1790|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Cleaner/CleanerSortingType.cs|354|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Cleaner/ProjectCleaner.cs|22528|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Cleaner/RecordType.cs|472|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Cleaner/Records/AssetRecord.cs|5114|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Cleaner/Records/CleanerErrorRecord.cs|1294|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Cleaner/Records/CleanerRecord.cs|2235|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Cleaner/Records/CleanerWarningRecord.cs|1308|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Common/Enums/SortingDirection.cs|327|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Common/IShowableRecord.cs|312|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Common/Records/RecordBase.cs|3902|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Common/RecordsSortings.cs|1552|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Common/ReportsBuilder.cs|2795|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/DetectorInfo.cs|1122|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/DetectorResults.cs|503|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Enums/DetectorKind.cs|372|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Implementation/Abstract/IssueDetector.cs|978|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Implementation/DuplicateComponentDetector.cs|5859|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Implementation/DuplicateLayersDetector.cs|1382|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Implementation/HugePositionDetector.cs|1711|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Implementation/InconsistentTerrainDataDetector.cs|3034|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Implementation/InvalidLayerDetector.cs|1367|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Implementation/InvalidSortingLayerDetector.cs|1944|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Implementation/MissingComponentDetector.cs|3243|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Implementation/MissingPrefabDetector.cs|1378|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Implementation/MissingReferenceDetector.cs|7144|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Implementation/ShaderErrorDetector.cs|1426|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Interfaces/IAssetBeginIssueDetector.cs|517|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Interfaces/IAssetEndIssueDetector.cs|513|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Interfaces/IComponentBeginIssueDetector.cs|529|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Interfaces/IComponentEndIssueDetector.cs|525|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Interfaces/IGameObjectBeginIssueDetector.cs|396|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Interfaces/IGameObjectEndIssueDetector.cs|392|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Interfaces/IIssueDetector.cs|391|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Interfaces/IPropertyIssueDetector.cs|393|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Interfaces/ISceneBeginIssueDetector.cs|390|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Interfaces/ISceneEndIssueDetector.cs|382|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Interfaces/ISettingsAssetBeginIssueDetector.cs|451|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/Interfaces/IUnityEventIssueDetector.cs|390|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Detectors/IssuesFinderDetectors.cs|13994|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Enums/IssueGroup.cs|399|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Enums/IssueKind.cs|766|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Enums/IssueSeverity.cs|430|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Enums/IssuesSortingType.cs|362|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/IssuesFinder.cs|9216|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Records/Abstraction/AssetIssueRecord.cs|611|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Records/Abstraction/IssueRecord.cs|3314|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Records/GameObjectIssueRecord.cs|7060|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Records/SceneSettingsIssueRecord.cs|3870|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Records/SettingsIssueRecord.cs|2699|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Records/ShaderIssueRecord.cs|1320|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Records/UnityObjectAssetIssueRecord.cs|4115|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Routines/IssuesFixer.cs|8507|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Routines/SettingsChecker.cs|4928|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Routines/TargetCollector.cs|3836|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Routines/TargetProcessor.cs|6601|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/RecordsBased/Issues/Scanners/UnityEventIssuesScanner.cs|637|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/TreeBased/References/Conjunction/AssetConjunctions.cs|469|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/TreeBased/References/Conjunction/TreeConjunction.cs|532|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/TreeBased/References/Data/HierarchyReferenceItem.cs|1298|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/TreeBased/References/Data/ProjectReferenceItem.cs|1213|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/TreeBased/References/Entry/EntryAddSettings.cs|502|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/TreeBased/References/Entry/EntryFinder.cs|2823|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/TreeBased/References/Entry/EntryGenerator.cs|2581|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/TreeBased/References/Entry/HierarchyEntryFinder.cs|3399|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/TreeBased/References/Entry/Processors/GenericObjectProcessor.cs|3639|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/TreeBased/References/Entry/Processors/ManualComponentProcessor.cs|1087|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/TreeBased/References/Entry/ProjectEntryFinder.cs|8225|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/TreeBased/References/Entry/SceneSettingsProcessor.cs|10437|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/TreeBased/References/HierarchyScopeReferencesFinder.cs|11694|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/TreeBased/References/ProjectScopeReferencesFinder.cs|9989|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/TreeBased/References/ReferencesFinder.cs|5016|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Modules/TreeBased/References/Routines/ProjectScopeReferencesTreeBuilder.cs|5239|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/SearchResultsStorage.cs|7883|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Settings/IssuesFinderSettings.cs|9452|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Settings/ProjectCleanerSettings.cs|3453|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Settings/ProjectSettings.Migration.cs|7919|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Settings/ProjectSettings.cs|5406|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Settings/ReferencesFinderSettings.cs|782|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Settings/User/IssuesFinderPersonalSettings.cs|2626|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Settings/User/ProjectCleanerPersonalSettings.cs|1137|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Settings/User/ReferencesFinderPersonalSettings.cs|1332|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Settings/User/UserSettings.cs|5077|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Tools/CSArrayTools.cs|1420|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Tools/CSAssetTools.cs|3128|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Tools/CSComponentTools.cs|1760|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Tools/CSEditorTools.cs|5892|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Tools/CSFileTools.cs|748|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Tools/CSFilterTools.cs|6659|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Tools/CSMenuTools.cs|1904|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Tools/CSObjectTools.cs|7520|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Tools/CSPathTools.cs|4483|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Tools/CSPrefabTools.cs|5642|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Tools/CSReflectionTools.cs|10450|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Tools/CSSceneTools.cs|8429|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Tools/CSSelectionTools.cs|10463|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Tools/CSSerializedPropertyTools.cs|5005|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Tools/CSSettingsTools.cs|1124|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/Tools/CSTraverseTools.cs|10150|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Filters/CleanerFiltersWindow.cs|2888|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Filters/FilterType.cs|321|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Filters/FiltersWindow.cs|2969|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Filters/IssuesFiltersWindow.cs|2745|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Filters/ReferencesFiltersWindow.cs|1734|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Filters/Tabs/Abstract/StringFiltersTab.cs|8484|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Filters/Tabs/Abstract/TabBase.cs|1188|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Filters/Tabs/ComponentFiltersTab.cs|4796|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Filters/Tabs/PathFiltersTab.cs|3700|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Filters/Tabs/SceneFiltersTab.cs|4790|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/MaintainerMenu.cs|6366|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/MaintainerWindow.cs|5767|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Tabs/AboutTab.cs|6028|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Tabs/Abstractions/BaseTab.cs|791|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Tabs/Abstractions/RecordsTab.cs|13803|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Tabs/Abstractions/TwoColumnsTab.cs|2161|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Tabs/IssuesFinder/IssuesTab.LeftColumn.cs|17674|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Tabs/IssuesFinder/IssuesTab.cs|11495|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Tabs/ProjectCleaner/CleanerTab.LeftColumn.cs|6939|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Tabs/ProjectCleaner/CleanerTab.cs|12695|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Tabs/ReferencesFinder/ChildTabs/Project/ProjectExactReferencesListPanel.cs|3505|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Tabs/ReferencesFinder/ChildTabs/Project/ProjectReferencesTab.cs|6077|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Tabs/ReferencesFinder/ChildTabs/Project/ProjectReferencesTreePanel.cs|5904|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Tabs/ReferencesFinder/ChildTabs/ReferencesChildTab.cs|417|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Tabs/ReferencesFinder/ChildTabs/Scene/HierarchyReferencesTab.cs|4571|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Tabs/ReferencesFinder/ChildTabs/Scene/HierarchyReferencesTreePanel.cs|3862|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Tabs/ReferencesFinder/ReferencesTab.LeftColumn.cs|2803|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Tabs/ReferencesFinder/ReferencesTab.cs|2459|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/TreeViews/ListTreeView.cs|1109|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/TreeViews/MaintainerMultiColumnHeader.cs|1791|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/TreeViews/MaintainerTreeView.cs|8747|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/TreeViews/References/ExactReferencesList.cs|2859|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/TreeViews/References/ExactReferencesListItem.cs|592|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/TreeViews/References/HierarchyReferencesTreeView.cs|11375|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/TreeViews/References/HierarchyReferencesTreeViewItem.cs|1736|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/TreeViews/References/ProjectReferencesTreeView.cs|9369|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/TreeViews/References/ProjectReferencesTreeViewItem.cs|1230|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Utils/CSIcons.cs|3846|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/Editor/Scripts/UI/Utils/UIHelpers.cs|11752|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/CodeStage/Maintainer/package.json|731|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/Plugins/UnitySweeper/Editor/AssetCollector.cs|8414|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/Plugins/UnitySweeper/Editor/AssetReferenceCollection.cs|2406|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/Plugins/UnitySweeper/Editor/ClassReferenceCollection.cs|16396|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/Plugins/UnitySweeper/Editor/CollectionData.cs|1163|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/Plugins/UnitySweeper/Editor/FindUnusedAssetsWindow.cs|10191|1788779751
+/c/Users/Administrator/Desktop/AndroidWorkspace/projects/ChikoRoad/Assets/_EXT [DEL]/_SWP/Plugins/UnitySweeper/Editor/ShaderReferenceCollection.cs|4191|1788779751
